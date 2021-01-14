@@ -39,8 +39,6 @@ def is_prime_number(input):
 print(is_prime_number(61))
 
 
-
-
 def count_vowel(a):
     count = 0;
     for i in a:
